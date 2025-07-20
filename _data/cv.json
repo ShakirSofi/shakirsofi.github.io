@@ -4,10 +4,10 @@
     "email": "shakirshowkat.sofi@kuleuven.be",
     "phone": "",
     "website": "https://shakirsofi.github.io",
-    "summary": "Ph.D. researcher, STADIUS, KU Leuven",
+    "summary": "Ph.D. researcher in computational mathematics, signal processing, and data mining at KU Leuven, with a focus on tensor decompositions, spatiotemporal forecasting, and data-driven modeling.",
     "location": {
-      "address": "Etienne Sabbelaan 53 - box 7658",
-      "postalCode": "8500",
+      "address": "",
+      "postalCode": "",
       "city": "Kortrijk",
       "countryCode": "BE",
       "region": "West Flanders"
@@ -16,142 +16,196 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?hl=en&user=Tkd8xEAAAAAJ"
+        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/0000-0003-4491-099X"
+        "url": "http://orcid.org/yourorcidurl"
       },
       {
         "network": "GitHub",
         "username": "ShakirSofi",
         "url": "https://github.com/ShakirSofi"
-      }
-     {
+      },
+      {
         "network": "LinkedIn",
         "username": "shakir-sofi-203945110",
         "url": "https://www.linkedin.com/in/shakir-sofi-203945110"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "KU Leuven",
+      "position": "Teaching Assistant",
+      "startDate": "2023-02",
+      "summary": "Conducted exercises and assessments for 'Applied AI: Academic Perspectives' and 'System and Control Theory'."
+    },
+    {
+      "company": "Skolkovo Institute of Science and Technology & TENSOR FIELD",
+      "position": "Research Intern",
+      "startDate": "2021-06",
+      "endDate": "2021-08",
+      "summary": "Multivariate time series forecasting for geospatial grid points."
+    },
+    {
+      "company": "Global Quantum Network, QWORLD",
+      "position": "Participant – Quantum Computing Summer School",
+      "startDate": "2021-06",
+      "summary": "Studied Qiskit, QFT, Shor’s Algorithm, and quantum programming techniques."
+    },
+    {
+      "company": "Jamkash Vehicleades Kashmir Pvt. Ltd (Maruti Suzuki)",
+      "position": "Engineer Intern",
+      "startDate": "2019-08",
+      "endDate": "2020-06",
+      "summary": "Worked in Logistics Electrical domain."
+    },
+    {
+      "company": "Power Grid Corporation of India Limited",
+      "position": "Field Intern",
+      "startDate": "2018-06",
+      "endDate": "2018-08",
+      "summary": "Hands-on exposure to power transmission, hydro power systems, and control room operations."
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "KU Leuven",
+      "area": "Ph.D. in Engineering Science",
+      "studyType": "Doctorate",
+      "startDate": "2023-02",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "institution": "Skolkovo Institute of Science and Technology",
+      "area": "M.Sc. in Data Science",
+      "studyType": "Master's",
+      "startDate": "2020-09",
+      "endDate": "2022-06",
+      "gpa": "4.7/5",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Islamic University of Science and Technology",
+      "area": "B.Tech in Electrical Engineering",
+      "studyType": "Bachelor's",
+      "startDate": "2015-08",
+      "endDate": "2019-08",
+      "gpa": "9.18/10",
+      "courses": []
+    },
+    {
+      "institution": "Govt. Hr. Sec. School, B.K Pora",
+      "area": "Science, Maths, and Informatics Practices",
+      "studyType": "Associate Degree",
+      "startDate": "2013-12",
+      "endDate": "2014-11",
+      "gpa": "83.6%",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "skills": [
+    "Python", "Matlab", "Octave", "Tensorly", "Tensor Toolbox", "Scikit-learn", "Keras", "PyTorch", "Numpy", "Pandas",
+    "C", "VB", "HTML", "SQL", "LaTeX", "LyX", "Ms Office", "Mathematica"
+  ],
+  "languages": [
+    "English",
+    "Urdu",
+    "Kashmiri"
+  ],
+  "interests": [
+    "Tensor decompositions",
+    "Spatiotemporal forecasting",
+    "Signal processing",
+    "Computational mathematics",
+    "Machine learning"
+  ],
+  "references": [
+    {
+      "name": "Dr. Lieven De Lathauwer",
+      "reference": "Professor, ESAT, STADIUS and Group Science, E & T, KU Leuven — lieven.delathauwer@kuleuven.be"
+    },
+    {
+      "name": "Dr. Ivan Oseledets",
+      "reference": "Professor, Director of CAIT, Skoltech — I.Oseledets@skoltech.ru"
+    },
+    {
+      "name": "Mr. Muzaffar Ahmad Sofi",
+      "reference": "Asst. Professor of Computer Science, J&K Higher Education — muzaffarsofi.g@gmail.com"
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "A case study of spatiotemporal forecasting techniques for weather forecasting",
+      "publisher": "arXiv",
+      "releaseDate": "2022-09",
+      "website": "https://doi.org/10.48550/arXiv.2209.14782",
+      "summary": "Preprint on matrix/tensor completion-based forecasting techniques for weather prediction."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Image Segmentation with Topological Priors",
+      "publisher": "arXiv",
+      "releaseDate": "2022-05",
+      "website": "https://doi.org/10.48550/arXiv.2205.06197",
+      "summary": "Introduces topological priors into UNet-based image segmentation."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Applied AI: Academic Perspectives",
+      "institution": "KU Leuven, Campus Kulak Kortrijk",
+      "date": "2023-01-01",
+      "role": "Teaching Assistant",
+      "description": "Conducted sessions, coding exercises, and evaluations."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "System and Control Theory",
+      "institution": "KU Leuven, Campus Kulak Kortrijk",
+      "date": "2023-01-01",
+      "role": "Teaching Assistant",
+      "description": "Led theoretical and practical sessions."
+    },
+    {
+      "course": "Python Programming",
+      "institution": "KIMS, Quantum AI Lab (Private tutoring)",
+      "date": "",
+      "role": "Instructor",
+      "description": "Course on foundational and applied Python programming."
+    },
+    {
+      "course": "Differential Equations and Calculus (Private tutoring)",
+      "institution": "Srinagar, Jammu & Kashmir",
+      "date": "",
+      "role": "Tutor",
+      "description": "Provided tutoring for high school and undergraduate courses."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Tensorizing Dynamic Model Decomposition",
       "category": "portfolio",
       "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "url": "https://github.com/ShakirSofi/TensorizingDMD.git",
+      "description": "Implemented dynamic mode decomposition using tensor train format."
+    },
+    {
+      "name": "Image Segmentation with Topological Priors",
+      "category": "portfolio",
+      "date": "",
+      "url": "https://github.com/ShakirSofi/TopoSeg.git",
+      "description": "UNet with topological regularization for fine-scale structure segmentation."
+    },
+    {
+      "name": "De Novo Drug Design with Conditional VAEs",
+      "category": "portfolio",
+      "date": "",
+      "url": "https://github.com/ShakirSofi/Conditional_VAE.git",
+      "description": "Drug design using 1D CNN-based conditional variational autoencoders."
     }
   ]
 }
