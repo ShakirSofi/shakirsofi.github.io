@@ -4,66 +4,101 @@
     "email": "shakirshowkat.sofi@kuleuven.be",
     "phone": "",
     "website": "https://shakirsofi.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Ph.D. researcher, STADIUS, KU Leuven",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "Etienne Sabbelaan 53 - box 7658",
+      "postalCode": "8500",
+      "city": "Kortrijk",
+      "countryCode": "BE",
+      "region": "West Flanders"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?hl=en&user=Tkd8xEAAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0003-4491-099X"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "ShakirSofi",
+        "url": "https://github.com/ShakirSofi"
       }
+     {
+        "network": "LinkedIn",
+        "username": "shakir-sofi-203945110",
+        "url": "https://www.linkedin.com/in/shakir-sofi-203945110"
+      }
+
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "KU Leuven",
+      "area": "Ph.D. in Engineering Science",
+      "studyType": "Doctorate",
+      "startDate": "2023-02",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "institution": "Skolkovo Institute of Science and Technology",
+      "area": "M.Sc. in Data Science",
+      "studyType": "Master's",
+      "startDate": "2020-09",
+      "endDate": "2022-06",
+      "gpa": "4.7/5",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Islamic University of Science and Technology",
+      "area": "B.Tech in Electrical Engineering",
+      "studyType": "Bachelor's",
+      "startDate": "2015-08",
+      "endDate": "2019-08",
+      "gpa": "9.18/10",
+      "courses": []
+    },
+    {
+      "institution": "Govt. Hr. Sec. School, B.K Pora",
+      "area": "Science, Maths, and Informatics Practices",
+      "studyType": "Associate Degree",
+      "startDate": "2013-12",
+      "endDate": "2014-11",
+      "gpa": "83.6%",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    "Python", "Matlab", "Octave", "Tensorly", "Tensor Toolbox", "Scikit-learn", "Keras", "PyTorch", "Numpy", "Pandas",
+    "C", "VB", "HTML", "SQL", "LaTeX", "LyX", "Ms Office", "Mathematica"
+  ],
+  "languages": [
+    "English",
+    "Urdu",
+    "Kashmiri"
+  ],
   "interests": [],
-  "references": [],
+    "references": [
+    {
+      "name": "Dr. Lieven De Lathauwer",
+      "reference": "Professor, ESAT, STADIUS and Group Science, E & T, KU Leuven — lieven.delathauwer@kuleuven.be"
+    },
+    {
+      "name": "Dr. Ivan Oseledets",
+      "reference": "Professor, Director of CAIT, Skoltech — I.Oseledets@skoltech.ru"
+    },
+    {
+      "name": "Mr. Muzaffar Ahmad Sofi",
+      "reference": "Asst. Professor of Computer Science, J&K Higher Education — muzaffarsofi.g@gmail.com"
+    }
+  ],
   "publications": [
     {
       "name": "Paper Title Number 1",
