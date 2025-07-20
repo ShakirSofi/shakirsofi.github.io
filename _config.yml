@@ -23,12 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Shaki Showkat Sofi"
+  bio              : "PhD student at KU Leuven (ESAT), interested in predictive analytics, matrix/tensor decompositions, and spatiotemporal pattern mining. I enjoy traveling and quiet moments."
   location         : "Kortrijk, BE"
   employer         : "KU Leuven"
-  uri              : # URL
+  uri              :  "https://www.kuleuven.be/wieiswie/en/person/00161505"
   email            : "shakirshowkat.sofi@kuleuven.be" 
 
   # Academic websites
@@ -37,9 +36,6 @@ author:
   researchgate     : "https://www.researchgate.net/profile/Shakir-Showkat-Sofi"
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
   github           : "ShakirSofi"
    
 
