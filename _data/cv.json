@@ -33,72 +33,42 @@
         "username": "shakir-sofi-203945110",
         "url": "https://www.linkedin.com/in/shakir-sofi-203945110"
       }
-
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "KU Leuven",
-      "area": "Ph.D. in Engineering Science",
-      "studyType": "Doctorate",
-      "startDate": "2023-02",
-      "endDate": "",
+      "institution": "GitHub University",
+      "area": "Ph.D in Version Control Theory",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2018",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "Skolkovo Institute of Science and Technology",
-      "area": "M.Sc. in Data Science",
-      "studyType": "Master's",
-      "startDate": "2020-09",
-      "endDate": "2022-06",
-      "gpa": "4.7/5",
+      "institution": "GitHub University",
+      "area": "M.S. in Jekyll",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2014",
+      "gpa": null,
       "courses": []
     },
     {
-      "institution": "Islamic University of Science and Technology",
-      "area": "B.Tech in Electrical Engineering",
-      "studyType": "Bachelor's",
-      "startDate": "2015-08",
-      "endDate": "2019-08",
-      "gpa": "9.18/10",
-      "courses": []
-    },
-    {
-      "institution": "Govt. Hr. Sec. School, B.K Pora",
-      "area": "Science, Maths, and Informatics Practices",
-      "studyType": "Associate Degree",
-      "startDate": "2013-12",
-      "endDate": "2014-11",
-      "gpa": "83.6%",
+      "institution": "GitHub University",
+      "area": "B.S. in GitHub",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2012",
+      "gpa": null,
       "courses": []
     }
   ],
-  "skills": [
-    "Python", "Matlab", "Octave", "Tensorly", "Tensor Toolbox", "Scikit-learn", "Keras", "PyTorch", "Numpy", "Pandas",
-    "C", "VB", "HTML", "SQL", "LaTeX", "LyX", "Ms Office", "Mathematica"
-  ],
-  "languages": [
-    "English",
-    "Urdu",
-    "Kashmiri"
-  ],
+  "skills": [],
+  "languages": [],
   "interests": [],
-    "references": [
-    {
-      "name": "Dr. Lieven De Lathauwer",
-      "reference": "Professor, ESAT, STADIUS and Group Science, E & T, KU Leuven — lieven.delathauwer@kuleuven.be"
-    },
-    {
-      "name": "Dr. Ivan Oseledets",
-      "reference": "Professor, Director of CAIT, Skoltech — I.Oseledets@skoltech.ru"
-    },
-    {
-      "name": "Mr. Muzaffar Ahmad Sofi",
-      "reference": "Asst. Professor of Computer Science, J&K Higher Education — muzaffarsofi.g@gmail.com"
-    }
-  ],
+  "references": [],
   "publications": [
     {
       "name": "Paper Title Number 1",
