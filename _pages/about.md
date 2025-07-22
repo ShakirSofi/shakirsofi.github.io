@@ -13,4 +13,4 @@ Previously, I earned an M.Sc. in Data Science from Skolkovo Institute of Science
 
 My work blends theory and practice, and I have a strong interest in data compression, low-rank modeling, and interpretable machine learning. I actively use Python and MATLAB in my research and enjoy building tools and algorithms for large-scale data analysis.
 
-Feel free to explore my [publications](/publications/), [projects](/projects/), or get in touch via [email](/contact/) or [GitHub](https://github.com/ShakirSofi).
+Feel free to explore my [publications](https://shakirsofi.github.io/publications), or get in touch via [email](shakirshowkat.sofi@kuleuven.be) or [GitHub](https://github.com/ShakirSofi).
