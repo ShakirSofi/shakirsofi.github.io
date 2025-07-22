@@ -4,10 +4,10 @@
     "email": "shakirshowkat.sofi@kuleuven.be",
     "phone": "",
     "website": "https://shakirsofi.github.io",
-    "summary": "Ph.D. researcher in computational mathematics, signal processing, and data mining at KU Leuven, with a focus on tensor decompositions, spatiotemporal forecasting, and data-driven modeling.",
+    "summary": "Ph.D. researcher, STADIUS, KU Leuven.",
     "location": {
-      "address": "",
-      "postalCode": "",
+      "address": "Etienne Sabbelaan 53 - box 7658",
+      "postalCode": "*500",
       "city": "Kortrijk",
       "countryCode": "BE",
       "region": "West Flanders"
@@ -15,13 +15,13 @@
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Shakir Showkat Sofi",
+        "url": "https://scholar.google.com/citations?hl=en&user=Tkd8xEAAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "Shakir Showkat Sofi",
+        "url": "https://orcid.org/0000-0003-4491-099X"
       },
       {
         "network": "GitHub",
@@ -49,31 +49,11 @@
       "endDate": "2021-08",
       "summary": "Multivariate time series forecasting for geospatial grid points."
     },
-    {
-      "company": "Global Quantum Network, QWORLD",
-      "position": "Participant – Quantum Computing Summer School",
-      "startDate": "2021-06",
-      "summary": "Studied Qiskit, QFT, Shor’s Algorithm, and quantum programming techniques."
-    },
-    {
-      "company": "Jamkash Vehicleades Kashmir Pvt. Ltd (Maruti Suzuki)",
-      "position": "Engineer Intern",
-      "startDate": "2019-08",
-      "endDate": "2020-06",
-      "summary": "Worked in Logistics Electrical domain."
-    },
-    {
-      "company": "Power Grid Corporation of India Limited",
-      "position": "Field Intern",
-      "startDate": "2018-06",
-      "endDate": "2018-08",
-      "summary": "Hands-on exposure to power transmission, hydro power systems, and control room operations."
-    }
   ],
   "education": [
     {
       "institution": "KU Leuven",
-      "area": "Ph.D. in Engineering Science",
+      "area": "Ph.D. in Engineering Science (Electrical Engineering)",
       "studyType": "Doctorate",
       "startDate": "2023-02",
       "endDate": "",
@@ -98,19 +78,9 @@
       "gpa": "9.18/10",
       "courses": []
     },
-    {
-      "institution": "Govt. Hr. Sec. School, B.K Pora",
-      "area": "Science, Maths, and Informatics Practices",
-      "studyType": "Associate Degree",
-      "startDate": "2013-12",
-      "endDate": "2014-11",
-      "gpa": "83.6%",
-      "courses": []
-    }
   ],
   "skills": [
-    "Python", "Matlab", "Octave", "Tensorly", "Tensor Toolbox", "Scikit-learn", "Keras", "PyTorch", "Numpy", "Pandas",
-    "C", "VB", "HTML", "SQL", "LaTeX", "LyX", "Ms Office", "Mathematica"
+    "Python", "Matlab", "Mathematica"
   ],
   "languages": [
     "English",
@@ -118,41 +88,59 @@
     "Kashmiri"
   ],
   "interests": [
-    "Tensor decompositions",
-    "Spatiotemporal forecasting",
+    "Multilinear algebra",
     "Signal processing",
-    "Computational mathematics",
-    "Machine learning"
+    "Tensor decompositions",
+    "Data compression",
+    "Data completion",
+    "Quantum state tomography",
+    "Spatiotemporal pattern mining",
   ],
-  "references": [
-    {
-      "name": "Dr. Lieven De Lathauwer",
-      "reference": "Professor, ESAT, STADIUS and Group Science, E & T, KU Leuven — lieven.delathauwer@kuleuven.be"
-    },
-    {
-      "name": "Dr. Ivan Oseledets",
-      "reference": "Professor, Director of CAIT, Skoltech — I.Oseledets@skoltech.ru"
-    },
-    {
-      "name": "Mr. Muzaffar Ahmad Sofi",
-      "reference": "Asst. Professor of Computer Science, J&K Higher Education — muzaffarsofi.g@gmail.com"
-    }
-  ],
+  "references: ["Available upon request."]
   "publications": [
     {
+  "name": "Tensor Decompositions for Signal Processing: Theory, Advances, and Applications",
+  "publisher": "Elsevier (Signal Processing)",
+  "releaseDate": "2025-06",
+  "website": "https://doi.org/10.1016/j.sigpro.2025.110191",
+  "summary": "This comprehensive survey bridges theoretical advancements with practical applications in tensor decompositions, highlighting their role in multi-dimensional data analysis across signal processing and machine learning domains. It covers foundational models like CP and Tucker decompositions, explores advanced techniques such as tensor networks and Tensor Train, and discusses their applications in areas like source separation, feature extraction, and multi-view learning. The paper also addresses computational challenges and introduces strategies for scalable tensor recovery, offering insights into the future directions of tensor-based methodologies."
+   }, 
+    {
+  "name": "Tensor Train Quantum State Tomography Using Compressed Sensing",
+  "publisher": "arXiv",
+  "releaseDate": "2025-06-30",
+  "website": "https://arxiv.org/abs/2506.23560",
+  "summary": "This paper introduces a block-tensor train parameterization of the density matrix, making quantum state tomography more memory- and computationally efficient."
+   }, 
+    {
       "name": "A case study of spatiotemporal forecasting techniques for weather forecasting",
-      "publisher": "arXiv",
-      "releaseDate": "2022-09",
-      "website": "https://doi.org/10.48550/arXiv.2209.14782",
-      "summary": "Preprint on matrix/tensor completion-based forecasting techniques for weather prediction."
+      "publisher": "Springer US (Geoinformatica)",
+      "releaseDate": "2024-09",
+      "website": "https://link.springer.com/article/10.1007/s10707-024-00530-y",
+      "summary": "This work presents a tensor train dynamic mode decomposition method for regional weather forecasting that captures spatiotemporal correlations while reducing computational costs and maintaining high accuracy without requiring training."
     },
     {
+  "name": "Some contributions to Lagrangian modelling of Power Converters",
+  "publisher": "Elsevier (Franklin Open)",
+  "releaseDate": "2024-07",
+  "website": "https://doi.org/10.1016/j.fraope.2024.100125",
+  "summary": "This work extends Euler–Lagrange (energy-based) modelling to high-fidelity power converters by refining the modelling procedure, introducing a principled way to incorporate circuit constraints via variable labeling, and deriving accurate switched state-space models that account for non-idealities—demonstrated through examples like diode rectifiers and DC–DC boost converters."
+   }
+    {
+   "name": "Tensor Train Completion of Multi-Way Data Observed Along One Mode",
+   "publisher": "IEEE (EUSIPCO)",
+   "releaseDate": "2024-08",
+   "website": "https://doi.org/10.23919/EUSIPCO63174.2024.10715267",
+   "summary": "This paper introduces a non‑optimization-based method to complete an incomplete tensor under a fiber‑wise observation pattern—i.e., only whole mode‑\(N\) fibers are observed—by computing a Tensor‑Train decomposition using standard linear algebra (e.g., SVD/QR) on partially observed unfoldings. It provides deterministic uniqueness guarantees under structured sampling and demonstrates fast, accurate recovery in synthetic noisy high‑order tensors (e.g., 5th‑order) compared to TT‑WOPT and SiLRTC‑TT."
+   }, 
+    {
       "name": "Image Segmentation with Topological Priors",
-      "publisher": "arXiv",
-      "releaseDate": "2022-05",
-      "website": "https://doi.org/10.48550/arXiv.2205.06197",
-      "summary": "Introduces topological priors into UNet-based image segmentation."
-    }
+      "publisher": "IEEE (HPEC)",
+      "releaseDate": "2023-10",
+      "website": "https://doi.org/10.1109/HPEC58863.2023.10363528",
+      "summary": "This work shows that incorporating topological priors into deep neural network training—specifically within a U-Net architecture—significantly enhances segmentation accuracy, particularly for fine-scale structures, as validated on the ISBI EM dataset using both standard metrics and Betti number-based topological correctness."
+    } 
+    
   ],
   "presentations": [],
   "teaching": [
@@ -176,36 +164,7 @@
       "date": "",
       "role": "Instructor",
       "description": "Course on foundational and applied Python programming."
-    },
-    {
-      "course": "Differential Equations and Calculus (Private tutoring)",
-      "institution": "Srinagar, Jammu & Kashmir",
-      "date": "",
-      "role": "Tutor",
-      "description": "Provided tutoring for high school and undergraduate courses."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Tensorizing Dynamic Model Decomposition",
-      "category": "portfolio",
-      "date": "",
-      "url": "https://github.com/ShakirSofi/TensorizingDMD.git",
-      "description": "Implemented dynamic mode decomposition using tensor train format."
-    },
-    {
-      "name": "Image Segmentation with Topological Priors",
-      "category": "portfolio",
-      "date": "",
-      "url": "https://github.com/ShakirSofi/TopoSeg.git",
-      "description": "UNet with topological regularization for fine-scale structure segmentation."
-    },
-    {
-      "name": "De Novo Drug Design with Conditional VAEs",
-      "category": "portfolio",
-      "date": "",
-      "url": "https://github.com/ShakirSofi/Conditional_VAE.git",
-      "description": "Drug design using 1D CNN-based conditional variational autoencoders."
-    }
-  ]
+  "portfolio": []
 }
