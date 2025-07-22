@@ -2,12 +2,11 @@
   "basics": {
     "name": "Shakir Showkat Sofi",
     "email": "shakirshowkat.sofi@kuleuven.be",
-    "phone": "",
     "website": "https://shakirsofi.github.io",
     "summary": "Ph.D. researcher, STADIUS, KU Leuven.",
     "location": {
       "address": "Etienne Sabbelaan 53 - box 7658",
-      "postalCode": "*500",
+      "postalCode": "8500",
       "city": "Kortrijk",
       "countryCode": "BE",
       "region": "West Flanders"
@@ -40,7 +39,8 @@
       "company": "KU Leuven",
       "position": "Teaching Assistant",
       "startDate": "2023-02",
-      "summary": "Conducted exercises and assessments for 'Applied AI: Academic Perspectives' and 'System and Control Theory'."
+      "endDate": "Present",
+      "summary": "Conduct exercises and assessments for 'Applied AI: Academic Perspectives' and 'System and Control Theory'."
     },
     {
       "company": "Skolkovo Institute of Science and Technology & TENSOR FIELD",
@@ -56,7 +56,7 @@
       "area": "Ph.D. in Engineering Science (Electrical Engineering)",
       "studyType": "Doctorate",
       "startDate": "2023-02",
-      "endDate": "",
+      "endDate": "2027-02",
       "gpa": null,
       "courses": []
     },
