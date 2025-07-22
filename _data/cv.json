@@ -98,7 +98,9 @@
     "Quantum state tomography",
     "Spatiotemporal pattern mining"
   ],
-  "references": ["Available upon request."],
+  "references": [
+    "Available upon request."
+  ],
   "publications": [
     {
       "name": "Tensor Decompositions for Signal Processing: Theory, Advances, and Applications",
@@ -133,7 +135,7 @@
       "publisher": "IEEE (EUSIPCO)",
       "releaseDate": "2024-08",
       "website": "https://doi.org/10.23919/EUSIPCO63174.2024.10715267",
-      "summary": "This paper introduces a non‑optimization-based method to complete an incomplete tensor under a fiber‑wise observation pattern—i.e., only whole mode‑\(N\) fibers are observed—by computing a Tensor‑Train decomposition using standard linear algebra (e.g., SVD/QR) on partially observed unfoldings. It provides deterministic uniqueness guarantees under structured sampling and demonstrates fast, accurate recovery in synthetic noisy high‑order tensors (e.g., 5th‑order) compared to TT‑WOPT and SiLRTC‑TT."
+      "summary": "This paper introduces a non‑optimization-based method to complete an incomplete tensor under a fiber‑wise observation pattern—i.e., only whole mode‑N fibers are observed—by computing a Tensor‑Train decomposition using standard linear algebra (e.g., SVD/QR) on partially observed unfoldings. It provides deterministic uniqueness guarantees under structured sampling and demonstrates fast, accurate recovery in synthetic noisy high‑order tensors (e.g., 5th‑order) compared to TT‑WOPT and SiLRTC‑TT."
     },
     {
       "name": "Image Segmentation with Topological Priors",
