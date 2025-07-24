@@ -1,0 +1,13 @@
+---
+title: "Tensor Decompositions for Signal Processing: Theory, Advances, and Applications"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-06-tensor-decompositions-for-signal-processing-theory-advances-and-applications
+excerpt: "This comprehensive survey bridges theoretical advancements with practical applications in tensor decompositions, highlighting their role in multi-dimensional data analysis across signal processing and machine learning domains."
+date: 2025-06-01
+venue: "Elsevier (Signal Processing)"
+slidesurl: ''
+paperurl: "https://doi.org/10.1016/j.sigpro.2025.110191"
+bibtexurl: ''
+citation: "Author(s). (2025). &quot;Tensor Decompositions for Signal Processing: Theory, Advances, and Applications.&quot; <i>Elsevier (Signal Processing)</i>."
+---
