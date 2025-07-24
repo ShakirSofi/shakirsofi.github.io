@@ -8,6 +8,6 @@ date: 2025-06-30
 venue: "arXiv"
 slidesurl: ''
 paperurl: "https://arxiv.org/abs/2506.23560"
-bibtexurl: ''
+bibtexurl: 'https://github.com/ShakirSofi/shakirsofi.github.io/blob/master/files/bibtex.bib'
 citation: "Author(s). (2025). &quot;Tensor Train Quantum State Tomography Using Compressed Sensing.&quot; <i>arXiv</i>."
 ---
