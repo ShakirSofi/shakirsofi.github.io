@@ -9,5 +9,4 @@ venue: "Elsevier (Signal Processing)"
 slidesurl: ''
 paperurl: "https://doi.org/10.1016/j.sigpro.2025.110191"
 bibtexurl: 'https://github.com/ShakirSofi/shakirsofi.github.io/blob/master/files/bibtex.bib'
-citation: "Author(s). (2025). &quot;Tensor Decompositions for Signal Processing: Theory, Advances, and Applications.&quot; <i>Elsevier (Signal Processing)</i>."
 ---
