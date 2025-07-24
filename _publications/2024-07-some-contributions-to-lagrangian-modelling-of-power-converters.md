@@ -8,6 +8,6 @@ date: 2024-07-01
 venue: "Elsevier (Franklin Open)"
 slidesurl: ''
 paperurl: "https://doi.org/10.1016/j.fraope.2024.100125"
-bibtexurl: ''
+bibtexurl: 'https://github.com/ShakirSofi/shakirsofi.github.io/blob/master/files/bibtex.bib'
 citation: "Author(s). (2024). &quot;Some Contributions to Lagrangian Modelling of Power Converters.&quot; <i>Elsevier (Franklin Open)</i>."
 ---
