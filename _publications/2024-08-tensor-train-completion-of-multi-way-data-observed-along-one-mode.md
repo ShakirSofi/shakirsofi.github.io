@@ -8,6 +8,6 @@ date: 2024-08-01
 venue: "IEEE (EUSIPCO)"
 slidesurl: ''
 paperurl: "https://doi.org/10.23919/EUSIPCO63174.2024.10715267"
-bibtexurl: ''
+bibtexurl: 'https://github.com/ShakirSofi/shakirsofi.github.io/blob/master/files/bibtex.bib'
 citation: "Author(s). (2024). &quot;Tensor Train Completion of Multi-Way Data Observed Along One Mode.&quot; <i>IEEE (EUSIPCO)</i>."
 ---
