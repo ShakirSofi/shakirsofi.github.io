@@ -7,10 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Shakir Showkat Sofi, a Ph.D. candidate in Electrical Engineering at KU Leuven, Belgium, working with Prof. Lieven De Lathauwer. My research lies at the intersection of computational mathematics, signal processing, and data mining, with a focus on tensor decompositions for data compression, data completion, and their applications in quantum state tomography and spatiotemporal pattern mining.
+I am Shakir Showkat Sofi, a Ph.D. candidate in the Department of Electrical Engineering (ESAT) at KU Leuven, Belgium, working with [Prof. Lieven De Lathauwer](https://www.esat.kuleuven.be/stadius/stadiusincludes/person.php?id=22). My research lies at the intersection of computational mathematics, signal processing, and data mining. Specifically, my focus is on tensor decompositions for data compression, data completion, and their applications in quantum state tomography and spatiotemporal pattern mining.
 
-Previously, I earned an M.Sc. in Data Science from the Skolkovo Institute of Science and Technology (Skoltech), Russia, where I completed my thesis under the supervision of Prof. Ivan Oseledets. I also hold a B.Tech. in Electrical Engineering from the Islamic University of Science and Technology (IUST), India.
+Previously, I earned an M.Sc. in Data Science from the Skolkovo Institute of Science and Technology (Skoltech) in Russia, where I completed my thesis under the supervision of [Prof. Ivan Oseledets](https://oseledets.github.io/). 
 
-My research is driven by the goal of developing scalable, interpretable, and theoretically grounded machine learning models. I am particularly interested in low-rank modeling, tensor-based representation learning, and efficient algorithms for high-dimensional, structured data.
+My research interests are: <br>
+- Tensor methods for AI/ML.
+- Multidimensional data completion and compression.
+- Spatiotemporal pattern mining with applications in traffic flow and climate/weather forecasting.
+- Quantum state tomography.
 
 Feel free to explore my [publications](https://shakirsofi.github.io/publications), or get in touch via [LinkedIn](https://www.linkedin.com/in/shakir-sofi-203945110) or [GitHub](https://github.com/ShakirSofi).
