@@ -4,7 +4,7 @@ collection: teaching
 type: "teaching"
 permalink: /teaching/2024-TensorAI
 venue: "KU Leuven, ESAT"
-date: 2024-04-01
+date: 2024-04-01, 2025-04-01
 location: "Brugge, BE"
 ---
 
