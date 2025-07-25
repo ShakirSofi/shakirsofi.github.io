@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2023-SystemTheory
 venue: "KU Leuven, ESAT"
 date: 2023-03-01, 2024-03-01, 2025-03-01,
-location: "Kortrijk, BE"
+location: "Kortrijk, Belgium"
 ---
 
 ### Teaching Assistant  
