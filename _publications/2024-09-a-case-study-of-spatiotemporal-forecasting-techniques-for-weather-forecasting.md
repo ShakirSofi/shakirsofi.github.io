@@ -3,7 +3,7 @@ title: "A Case Study of Spatiotemporal Forecasting Techniques for Weather Foreca
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-a-case-study-of-spatiotemporal-forecasting-techniques-for-weather-forecasting
-excerpt: "This work presents a tensor train dynamic mode decomposition method for regional weather forecasting that captures spatiotemporal correlations while reducing computational costs and maintaining high accuracy without requiring training."
+excerpt: " "
 date: 2024-09-01
 venue: "Springer US (Geoinformatica)"
 slidesurl: ''
