@@ -1,7 +1,7 @@
 ---
 title: 'Overview of matrix and tensor completion approaches'
 date: 2025-07-02
-permalink: /posts/mat-ten-comp
+permalink: /posts/2025/07/MatTenComp
 tags:
   - low-rank modelling
   - compressed sensing
