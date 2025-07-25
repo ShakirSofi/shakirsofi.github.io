@@ -5,11 +5,11 @@ type: "teaching"
 permalink: /teaching/2024-TensorAI
 venue: "KU Leuven, ESAT"
 date: 2024-04-01, 2025-04-01
-location: "Brugge, BE"
+location: "Brugge, Belgium"
 ---
 
 ### Teaching Assistant  
-Helped with exercise sessions, demos, and assignment-related activities..
+Helped with exercise sessions, demos, and assignment-related activities.
 
 ### Topics Covered
 - From Two-PCA to Multiway PCA  
