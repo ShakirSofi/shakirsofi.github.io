@@ -3,7 +3,7 @@ title: "Image Segmentation with Topological Priors"
 collection: publications
 category: conferences
 permalink: /publication/2023-10-image-segmentation-with-topological-priors
-excerpt: "This work shows that incorporating topological priors into deep neural network training—specifically within a U-Net architecture—significantly enhances segmentation accuracy, particularly for fine-scale structures."
+excerpt: ""
 date: 2023-10-01
 venue: "IEEE (HPEC)"
 slidesurl: ''
