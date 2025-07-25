@@ -1,7 +1,7 @@
 ---
 title: "Applied AI: Academic Perspectives (AI & Tensors)"
 collection: teaching
-type: "teaching"
+type: "Advanced master's course"
 permalink: /teaching/2024-TensorAI
 venue: "KU Leuven, ESAT"
 date: 2024-04-01, 2025-04-01
