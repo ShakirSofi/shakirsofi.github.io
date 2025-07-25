@@ -3,7 +3,7 @@ title: "Tensor Train Quantum State Tomography Using Compressed Sensing"
 collection: publications
 category: conferences
 permalink: /publication/2025-06-30-tensor-train-quantum-state-tomography-using-compressed-sensing
-excerpt: "This paper introduces a block-tensor train parameterization of the density matrix, making quantum state tomography more memory- and computationally efficient."
+excerpt: " "
 date: 2025-06-30
 venue: "arXiv"
 slidesurl: ''
