@@ -1,7 +1,7 @@
 ---
 title: "pyTensorLab — Software Development Contribution"
 collection: software
-permalink: /software/pyTensorlab
+permalink: /software/pytensorlab
 date: 2025-12-06
 excerpt: "Contribution to the development of the pyTensorLab software package."
 ---
