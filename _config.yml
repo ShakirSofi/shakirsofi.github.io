@@ -189,7 +189,7 @@ collections:
     permalink: /:collection/:path/
   software:
     output: true
-    permalink: /:collection/:path/
+    permalink: /software/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -246,7 +246,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _softwares
+  # _software
   - scope:
       path: ""
       type: software
