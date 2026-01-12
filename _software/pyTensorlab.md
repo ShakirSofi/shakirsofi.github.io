@@ -7,4 +7,4 @@ excerpt: "Contribution to the development of the pyTensorLab software package."
 ---
 
 **Project website:**  
-https://www.pytensorlab.net/
+[https://www.pytensorlab.net/](https://www.pytensorlab.net/) 
