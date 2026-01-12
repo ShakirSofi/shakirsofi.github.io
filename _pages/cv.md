@@ -46,3 +46,9 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Software
+======
+  <ul>{% for post in site.software reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
