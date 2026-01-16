@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+About Me
+======
+Ph.D. candidate specializing in learning from incomplete measurements via low-rank matrix/tensor decompositions, with applications in data compression, data completion, quantum state tomography, and spatiotemporal pattern mining.
+
 Education
 ======
 * Ph.D. in Engineering Science (Electrical Engineering), KU Leuven, Belgium, 2023 – Present
