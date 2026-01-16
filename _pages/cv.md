@@ -11,7 +11,7 @@ redirect_from:
 
 About Me
 ======
-Ph.D. candidate specializing in learning from incomplete measurements via low-rank matrix/tensor decompositions, with applications in data compression, data completion, quantum state tomography, and spatiotemporal pattern mining.
+PhD researcher focusing on matrix and tensor decompositions for data compression, data completion, and their applications in quantum state tomography and spatiotemporal pattern mining.
 
 Education
 ======
