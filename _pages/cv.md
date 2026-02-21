@@ -17,12 +17,12 @@ Education
 ======
 * Ph.D. in Engineering Science (Electrical Engineering), KU Leuven, Belgium, 2023 – Present
   * Topic: Numerical algorithms for tensor decompositions and applications
-  * Advisor: Prof. Lieven De Lathauwer  
+  * Advisor: Prof. Lieven De Lathauwer; Co-Advisor: Prof. Fatemeh Mohammadi
   
 
 * M.Sc. in Data Science, Skoltech, Moscow, Russia, 2020 – 2022
   * Thesis: Spatiotemporal forecasting with application to the weather forecast
-  * Advisor: Prof. Ivan Oseledets, Dr. Rukhsan Ul Haq
+  * Advisor: Prof. Ivan Oseledets, Co-Advisor: Dr. Rukhsan Ul Haq
   * GPA: 4.7/5   
   
 
