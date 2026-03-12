@@ -2,12 +2,13 @@
 title: "Tensor Train Completion from Fiberwise Observations Along a Single Mode"
 collection: publications
 category: manuscripts
-permalink: /2025-09-16-tensor-train-completion-from-fiberwise-observations-along-a-single-mode
+permalink: /2026-03-09-tensor-train-completion-from-fiberwise-observations-along-a-single-mode
 excerpt: " "
-date: 2025-09-16
-venue: "arXiv"
+date: 2026-03-09
+venue: "Mathematics 2026, 14(5), 922"
 slidesurl: ''
-paperurl: "https://arxiv.org/abs/2509.18149"
+paperurl: "https://doi.org/10.3390/math14050922"
 bibtexurl: 'https://github.com/ShakirSofi/shakirsofi.github.io/blob/master/files/bibtex.bib'
 ---
+
 
