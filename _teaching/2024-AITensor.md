@@ -4,12 +4,11 @@ collection: teaching
 type: "Advanced master's course"
 permalink: /teaching/2024-TensorAI
 venue: "KU Leuven, ESAT"
-date: 2024-04-01, 2025-04-01
+date: 2024-04-01, present
 location: "Brugge, Belgium"
 ---
 
-### Teaching Assistant  
-Helped with exercise sessions, demos, and assignment-related activities.
+### Instructor 
 
 ### Topics Covered
 - From Two-PCA to Multiway PCA  
