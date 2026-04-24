@@ -4,7 +4,7 @@ collection: teaching
 type: "Advanced master's course"
 permalink: /teaching/2024-TensorAI
 venue: "KU Leuven, ESAT"
-date: 2024-04-01, present
+date: 2024-04-01 to present
 location: "Brugge, Belgium"
 ---
 
