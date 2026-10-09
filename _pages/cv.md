@@ -9,50 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+About Me
+======
+PhD researcher focusing on matrix and tensor decompositions for data compression, data completion, and their applications in quantum state tomography and spatiotemporal pattern mining.
+
 Education
 ======
-* Ph.D. in Engineering Science (Computational Mathematics, Signal Processing, and Data Mining), KU Leuven, Belgium, 2023 – Present  
-  * Advisor: Prof. Lieven De Lathauwer  
+* Ph.D. in Engineering Science (Electrical Engineering), KU Leuven, Belgium, 2023 – Present
   * Topic: Numerical algorithms for tensor decompositions and applications
+  * Advisor: Prof. Lieven De Lathauwer; Co-Advisor: Prof. Fatemeh Mohammadi
+  
 
-* M.Sc. in Data Science, Skolkovo Institute of Science and Technology, Moscow, Russia, 2020 – 2022  
-  * GPA: 4.7/5  
-  * Advisor: Prof. Ivan Oseledets  
+* M.Sc. in Data Science, Skoltech, Moscow, Russia, 2020 – 2022
   * Thesis: Spatiotemporal forecasting with application to the weather forecast
+  * Advisor: Prof. Ivan Oseledets, Co-Advisor: Dr. Rukhsan Ul Haq
+  * GPA: 4.7/5   
+  
 
-* B.Tech in Electrical Engineering, Islamic University of Science and Technology, India, 2015 – 2019  
-  * GPA: 9.18/10  
+* B.Tech in Electrical Engineering, IUST, India, 2015 – 2019
   * Thesis: Energy-Based Modeling of DC-DC Power Converters
+  * Advisor: Dr. Shahkar Ahmad Nahvi
+  * GPA: 9.18/10  
+  
 
-Work experience
-======
-* 2023–Present: Teaching Assistant  
-  * KU Leuven, Campus Kulak Kortrijk  
-  * Courses: Applied AI (Academic Perspectives), System and Control Theory
-
-* Summer 2021: Research Intern  
-  * Skolkovo Institute of Science and Technology & Tensor Field, Moscow, Russia  
-  * Focus: Data-driven and multivariate time series forecasting
-
-* Summer 2021: Quantum Computing Summer School  
-  * Global Quantum Network, QWORLD (Virtual)  
-  * Topics: Qiskit, QFT, Shor’s Algorithm
-
-* 2019–2020: Engineer Intern  
-  * Jamkash Vehicleades Kashmir Pvt. Ltd (Maruti Suzuki), India  
-  * Focus: Electrical Logistics
-
-* Summer 2018: Field Intern  
-  * Power Grid Corporation of India Ltd., India  
-  * Focus: Power generation and distribution systems
-
-Skills
-======
-* Programming: Python, MATLAB, Octave, C, VB, SQL, HTML  
-* Libraries/Frameworks: Scikit-learn, PyTorch, Keras, Numpy, Pandas, Tensorly  
-* Tools: LaTeX, LyX, Mathematica, Tensor Toolbox  
-* Hardware: Arduino Uno, µP-8085, µC-8051, Atmel 328P  
-* Soft Skills: Teamwork, Adaptability, Communication, Leadership
 
 Publications
 ======
@@ -72,12 +51,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Other
+Software
 ======
-* Private and group tutor for Python, Differential Equations, and Calculus
-* Academic mentorship and tutoring in J&K and Belgium
-* Member of:
-  * American Society of Mechanical Engineers (ASME)
-  * International Association of Engineers (IAENG)
-  * World Academy of Science, Engineering and Technology (WASET)
-  * Institute of Research Engineers and Doctors (theIRED)
+  <ul>{% for post in site.software reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
