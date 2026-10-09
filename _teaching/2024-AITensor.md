@@ -14,3 +14,4 @@ location: "Brugge, Belgium"
 - From Two-PCA to Multiway PCA  
 - Denoising and completion using Multilinear Singular Value Decomposition (MLSVD)  
 - Canonical Polyadic Decomposition (CPD) and its applications
+- Introduction to Tensor Networks
