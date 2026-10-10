@@ -16,7 +16,7 @@ PhD researcher focusing on matrix and tensor decompositions for data compression
 Education
 ======
 * Ph.D. in Engineering Science (Electrical Engineering), KU Leuven, Belgium, 2023 – Present
-  * Topic: Numerical algorithms for tensor decompositions and applications
+  * Provisional title: Learning tensor networks from incomplete data
   * Advisor: Prof. Lieven De Lathauwer; Co-Advisor: Prof. Fatemeh Mohammadi
   
 
